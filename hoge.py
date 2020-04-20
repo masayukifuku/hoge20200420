@@ -1,2 +1,2 @@
 print('hoge')
-print('part2')
+print('part3')
